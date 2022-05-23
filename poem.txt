@@ -7,4 +7,4 @@ Red
 Blue
 Green
 
-This is the rainbow color
+These are the color of the rainbow
